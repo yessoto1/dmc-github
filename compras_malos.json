@@ -1,0 +1,25 @@
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": "ff87fc64-398b-487c-b38d-3789c8d94063", "producto": "pollo", "precio_unitario": "caro"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": "3a6fcbe1-469f-49e9-8f1c-0b493c9dfe08", "producto": 12345, "cantidad": 2}
+{"compra_id": "009fe13e-7d0a-4341-adf6-f11cc09adddb", "producto": 12345, "cantidad": 2}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": "a602e5ed-ed3a-46a8-96ae-aaad54f94ee6", "producto": 12345, "cantidad": 2}
+{"compra_id": null, "producto": "pan", "cantidad": "tres"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": null, "producto": "pan", "cantidad": "tres"}
+{"compra_id": "64c4c920-af0d-44ef-a217-e5dc9cebb1dd", "producto": "pollo", "precio_unitario": "caro"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": "86c5e659-9349-41b3-b5d0-31e0e3548294", "producto": "pollo", "precio_unitario": "caro"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"compra_id": "69be35b4-5b6e-482e-97d7-33e1bf6a957f", "producto": "pollo", "precio_unitario": "caro"}
+{"compra_id": "adb12ee1-1324-4a65-9205-7f7382d351c1", "producto": "pollo", "precio_unitario": "caro"}
+{"compra_id": "d906dee9-3a26-4fe3-9e35-4cb54844d2c6", "producto": "pollo", "precio_unitario": "caro"}
+{"compra_id": "8a3e8ab4-80f0-4f1d-b83b-e28a78d7e2b9", "producto": 12345, "cantidad": 2}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
+{"cliente_id": "cli_9999", "producto": "cerveza"}
